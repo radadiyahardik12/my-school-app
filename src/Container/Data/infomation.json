@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "imageSrc": "testimonial-user-cover-1.png",
+        "detai" : "Slate helps you see how many more days  you need to work to reach your financial   goal for the month and year.",
+        "star" : "star",
+        "miles" :"Regina Miles",
+        "department" :"Designer"
+    },
+
+    {
+        "id":2,
+        "imageSrc": "testimonial-user-cover-2.png",
+        "detai" : "Slate helps you see how many more days  you need to work to reach your financial   goal for the month and year.",
+        "star" : "star",
+        "miles" :"Regina Miles",
+        "department" :"Designer"
+    }
+]

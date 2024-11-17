@@ -1,0 +1,35 @@
+[
+    {
+        "id" : "1",
+        "title" : "Company Info",
+        "about" : "About Us",
+        "carrier" : "Carrier",
+        "hiring" :"We are hiring",
+        "blog" : "Blog"
+    },
+    {
+        "id" : "2",
+        "title" : "Legal",
+        "about" : "About Us",
+        "carrier" : "Carrier",
+        "hiring" :"We are hiring",
+        "blog" : "Blog"
+    },
+    {
+        "id" : "3",
+        "title" : "Features",
+        "about" : "Business Marketing",
+        "carrier" : "User Analytic",
+        "hiring" :"Live Chat",
+        "blog" : "Unlimited Support"
+    },
+    {
+        "id" : "4",
+        "title" : "Resources",
+        "about" : "IOS & Android",
+        "carrier" : "Watch a Demo",
+        "hiring" :"Customers",
+        "blog" : "API"
+    }
+
+]
